@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Den (@Snaker)
 - 👀 I’m interested in AI and neural networks
-- 🌱 I’m currently learning Python + Keros + Tensor Flow
+- 🌱 I’m currently learning Python + Keras + Tensor Flow
 - 💞️ I’m looking to collaborate on AI for improving the way and the quality of human being
 - 📫 How to reach me: densnaker@yandex.ru #Git_AI
 
